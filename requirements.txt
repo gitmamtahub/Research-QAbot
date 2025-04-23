@@ -1,0 +1,8 @@
+python-dotenv
+pandas
+torch
+transformers
+PyPDF2
+pinecone
+cohere
+streamlit
